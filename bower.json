@@ -1,0 +1,10 @@
+{
+  "name": "foundation-compass-app",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "firebase": "~2.2.7",
+    "angular-foundation": "~0.6.0"
+  }
+}
