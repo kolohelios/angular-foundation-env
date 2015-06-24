@@ -19,3 +19,9 @@
 
 # Ignore bower_components directory
 /source/bower_components
+
+# Ignore SASS settings file
+/scss/_settings.scss
+
+# Ignore app.css generic stylesheet
+/stylesheets/app.css
